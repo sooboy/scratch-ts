@@ -1,0 +1,1 @@
+`npx degit @sooboy/scratch-ts my-app`
